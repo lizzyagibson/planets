@@ -2,3 +2,4 @@ Mars is the 4th planet from the sun.
 Mars is red.
 Matt Damon visited Mars. So it's ok for humans.
 Mars has weaker gravity than Earth.
+New line.
